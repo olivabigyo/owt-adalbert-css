@@ -6,9 +6,9 @@ h1 {
 }
 blockquote{
 	 
-	color: #2a1262;
-	text-align: center;
-	border: 5px double #e6a469;
+	color: #f7f1eb;
+	text-align: left;
+/*	border: 5px double #e6a469; */
 }
 table {
 	text-align: center;
