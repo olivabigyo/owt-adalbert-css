@@ -1,7 +1,20 @@
+body {
+	background: #f8c892
+}
 h1 {
-	color: blue;
+	color: #2a1262;
 }
 blockquote{
-	color: brown;
-
+	 
+	color: #2a1262;
+	text-align: center;
+	border: 5px double #e6a469;
+}
+table {
+	text-align: center;
+	border: 5px double #2a1262;
+	border-spacing: 1px;
+}
+td {
+	padding: 5px;
 }
