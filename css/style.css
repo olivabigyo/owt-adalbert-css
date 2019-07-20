@@ -1,5 +1,7 @@
 body {
-	background: #f8c892
+	background: #f8c892;
+	background-image: url("../img/potty1.png");
+	background-size: 50px;
 }
 h1 {
 	color: #2a1262;
