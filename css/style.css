@@ -1,15 +1,19 @@
 body {
+	font-family: sans-serif;
 	background: #f8c892;
-	background-image: url("../img/potty2.png");
-	background-size: 40px;
+	/* background-image: url("../img/potty2.png");
+	background-size: 40px; */
 }
 h1 {
+	font-family: initial;
 	color: #2a1262;
 }
 blockquote{
 	 
 	color: #f7f1eb;
-	text-align: left;
+	text-align: right;
+	font-size: large;
+	font-style: italic;
 /*	border: 5px double #e6a469; */
 }
 table {
